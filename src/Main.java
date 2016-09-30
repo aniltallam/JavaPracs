@@ -8,6 +8,7 @@ public class Main {
 //        ArrayPracsTest.run();
 //        MathPracsTest.run();
 //        BinarySearchPracsTest.run();
-        AstroPracsTest.run();
+//        AstroPracsTest.run();
+        CtciCh2Test.run();
     }
 }

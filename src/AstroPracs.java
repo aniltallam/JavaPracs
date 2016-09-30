@@ -7,6 +7,11 @@ class ListNode {
     ListNode(int val){
         this.val = val;
     }
+
+    @Override
+    public String toString() {
+        return String.valueOf(val) + " [" + LinkedListPracs.listToString(next) + "]";
+    }
 }
 public class AstroPracs {
 
